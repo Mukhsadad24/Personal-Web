@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://cloudconvert.com/
-HostUrl=https://eu-central.storage.cloudconvert.com/tasks/f9981075-f30b-4c03-9567-dce6ee53bc98/AndersonGrotesk-Black.ttf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20231115%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20231115T064620Z&X-Amz-Expires=86400&X-Amz-Signature=2e68cd94a7db19abd9cb404cee898b1e5e48a593ebb73ecb40c522b9afba4627&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22AndersonGrotesk-Black.ttf%22&response-content-type=font%2Fttf&x-id=GetObject
